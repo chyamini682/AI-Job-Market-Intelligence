@@ -148,3 +148,8 @@ The model uses:
 
 ```text
 salary_usd
+
+## 🚀 Live Demo
+
+**Live Dashboard:**  
+https://ai-job-market-intelligence-zkbzzzt2ilpkyvrusmdb6k.streamlit.app/
