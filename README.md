@@ -150,6 +150,12 @@ The model uses:
 salary_usd
 
 ## 🚀 Live Demo
+## 🚀 Live Demo
 
-**Live Dashboard:**  
-https://ai-job-market-intelligence-zkbzzzt2ilpkyvrusmdb6k.streamlit.app/
+### 🌐 Interactive Dashboard
+
+[![Open Live Dashboard](https://img.shields.io/badge/🚀%20Open%20Live%20Dashboard-Streamlit-red?style=for-the-badge)](https://ai-job-market-intelligence-zkbzzzt2ilpkyvrusmdb6k.streamlit.app/)
+
+Explore the live **AI Job Market Intelligence & Salary Prediction System**:
+
+👉 https://ai-job-market-intelligence-zkbzzzt2ilpkyvrusmdb6k.streamlit.app/
